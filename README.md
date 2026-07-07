@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**balys/balys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Balys, an optimist, just geeking through.
+Working on various AI deployments, HPC scaling, TPU/GPU optimizations.
+ 
+## Currenty working on
+* @Google - GCP Professional Services - Large scale HPC (GKE,Kueue,Slurm) deployments, optimization (10k-100k-.. vCPUs/vGPUs/TPUs)
+* @Google - Delta AI - AI Deployments and AI Agentic workflows for large enterprises
+* And other various projects 
 
-Here are some ideas to get you started:
+## 📬 Get in Touch
+- GitHub: [balys](https://github.com/balys)
+- LinkedIn: [balys](https://uk.linkedin.com/in/balysk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=balys)](https://git.io/streak-stats)
