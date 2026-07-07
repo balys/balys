@@ -11,6 +11,3 @@ Working on various AI deployments, HPC scaling, TPU/GPU optimizations.
 ## 📬 Get in Touch
 - GitHub: [balys](https://github.com/balys)
 - LinkedIn: [balysk](https://uk.linkedin.com/in/balysk)
-
-## 🚀 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=balys)](https://git.io/streak-stats)
