@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 I am Balys, an optimist, just geeking through.
-Working on various AI deployments, HPC scaling, TPU/GPU optimizations.
  
 ## Currently working on
-* Google - GCP PSO - HPC (GKE,Kueue,Slurm) deployments, optimization (10k-100k-.. vCPUs/vGPUs/TPUs)
-* Google - Delta AI - AI Deployments and AI Agentic workflows for large enterprises
+* Google - GCP - HPC (GKE,Kueue,Slurm) deployments, optimization (10k-100k-.. vCPUs/vGPUs/TPUs)
+* Google - Delta AI - AI Deployments, GEAP, AI Agentic workflows for large enterprises
 * Various other emerging projects and a bit of OSS
 
 ## 📬 Get in Touch
