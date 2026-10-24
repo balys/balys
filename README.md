@@ -1,6 +1,6 @@
 ## Hi there  👋
 
-I am Balys, an optimist, just geeking through.
+I am Balys, working and hobbying in AI space
  
 ## Currently working on
 * Google - GCP - HPC (GKE,Kueue,Slurm) deployments, optimization (10k-100k-.. vCPUs/vGPUs/TPUs)
@@ -10,3 +10,5 @@ I am Balys, an optimist, just geeking through.
 ## 📬 Get in Touch
 - GitHub: [balys](https://github.com/balys)
 - LinkedIn: [balysk](https://uk.linkedin.com/in/balysk)
+- X: [tobalys](http://x.com/tobalys)
+- Huggingface: [balys](https://huggingface.co/balys)
